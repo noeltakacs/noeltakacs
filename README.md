@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React Native and TypeScript**
 
 - ⭐ I'm most proud of these projects:
-  - [Quadratic equation calculator](https://github.com/noeltakacs/javafx-quadratic-equations) - Quadratic equation calculator, JavaFX
+  - [Quadratic equation calculator](https://github.com/noeltakacs/javafx-quadratic-equations) - Quadratic equation calculator and visualizer built in JavaFX
 
 - 👨‍💻 All of my projects are available at [https://github.com/noeltakacs](https://github.com/noeltakacs)
 
