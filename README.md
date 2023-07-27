@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeltakacs&label=Profile%20views&color=0e75b6&style=flat" alt="noeltakacs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/noeltakacs_" target="blank"><img src="https://img.shields.io/twitter/follow/noeltakacs_?logo=twitter&style=for-the-badge" alt="noeltakacs_" /></a> </p>
-
 - 🔭 I’m currently working on [Budget Buddy](https://github.com/noeltakacs/budget-buddy)
 
 - 🌱 I’m currently learning **React Native and TypeScript**
