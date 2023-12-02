@@ -3,7 +3,7 @@
 <h3 align="center">Passionate and hardworking Junior Software Engineer from Slovakia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-- 🔭 I’m currently working on [Budget Buddy](https://github.com/noeltakacs/budget-buddy)
+- 🔭 I’m currently working on [CheqTrack](https://github.com/noeltakacs/budget-buddy)
 
 - 🌱 I’m currently learning **React Native and TypeScript**
 
