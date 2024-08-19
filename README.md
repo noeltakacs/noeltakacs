@@ -5,11 +5,11 @@
 
 - 📍 **Location:** Moldava nad Bodvou, Slovakia
   
-- 🎓 **Education:** Pursuing a degree at the Technical University of Košice
+- 🎓 **Education:** Studying at Technical University of Košice
   
 - 🔭 **Current Project:** [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A finance tracker mobile app
 
-- 🌱 **Learning Focus:** Deepening my knowledge in the **MERN Stack**
+- 🌱 **Learning Focus:** Exploring the **MERN Stack**
 
 - ⭐ **Highlighted Projects:**
   - [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A comprehensive finance tracking mobile application
