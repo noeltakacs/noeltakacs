@@ -3,16 +3,25 @@
 <h3 align="center">Passionate and hardworking Junior Software Developer from Slovakia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🔭 I’m currently working on [CheqTrack](https://github.com/noeltakacs/budget-buddy)
+- 📍 **Location:** Moldava nad Bodvou, Slovakia
+  
+- 🎓 **Education:** Pursuing a degree at the Technical University of Košice
+  
+- 🔭 **Current Project:** [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A finance tracker mobile app
 
-- 🌱 I’m currently learning **React, TypeScript and Tailwind**
+- 🌱 **Learning Focus:** Deepening my knowledge in the **MERN Stack**
 
-- ⭐ I'm most proud of these projects:
-  - [Quadratic equation calculator](https://github.com/noeltakacs/javafx-quadratic-equations) - Quadratic equation calculator and visualizer built in JavaFX
+- ⭐ **Highlighted Projects:**
+  - [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A comprehensive finance tracking mobile application
+  - [Quadratic equation calculator](https://github.com/noeltakacs/javafx-quadratic-equations) - A JavaFX tool for solving and visualizing quadratic equations
 
-- 👨‍💻 All of my projects are available at [github.com/noeltakacs](https://github.com/noeltakacs?tab=repositories)
+- 👨‍💻 **Explore My Work:** Check out all of my projects on [GitHub](https://github.com/noeltakacs?tab=repositories)
 
-- 📫 How to reach me **noeltakacs0@gmail.com**
+- 📬 **Contact Me:** Feel free to reach out via email at [noeltakacs0@gmail.com](mailto:noeltakacs0@gmail.com)
+
+- 🚀 **Visit My Website:** Discover more about me at [www.noeltakacs.com](https://www.noeltakacs.com)
+
+- 🔗 **Check Out My Social Media:** Find all my social media profiles and more on [Linktree](https://linktr.ee/noeltakacs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
