@@ -39,14 +39,13 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 </p>
