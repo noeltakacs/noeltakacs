@@ -3,11 +3,9 @@
 <h3 align="center">Passionate and hardworking Software Engineer from Slovakia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 📍 **Location:** Moldava nad Bodvou, Slovakia
+- 💼 **Position:** Junior Data Engineer at BuiltMind
   
-- 🎓 **Education:** Studying Computer Science at Technical University of Košice
-  
-- 🔭 **Current Project:** [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A finance tracker mobile app
+- 🎓 **Education:** Computer Science at Technical University of Košice
 
 - ⭐ **Highlighted Projects:**
   - [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A comprehensive finance tracking mobile application
