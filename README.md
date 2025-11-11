@@ -9,11 +9,9 @@
   
 - 🔭 **Current Project:** [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A finance tracker mobile app
 
-- 🌱 **Learning Focus:** Exploring the **MERN Stack**
-
 - ⭐ **Highlighted Projects:**
   - [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A comprehensive finance tracking mobile application
-  - [Quadratic equation calculator](https://github.com/noeltakacs/javafx-quadratic-equations) - A JavaFX tool for solving and visualizing quadratic equations
+  - [QuadCalc](https://github.com/noeltakacs/javafx-quadratic-equations) - A tool for solving and visualizing quadratic equations
 
 - 👨‍💻 **Explore My Work:** Check out all of my projects on [GitHub](https://github.com/noeltakacs?tab=repositories)
 
@@ -21,14 +19,14 @@
 
 - 🚀 **Visit My Website:** Discover more about me at [www.noeltakacs.com](https://www.noeltakacs.com)
 
-- 🔗 **Check Out My Social Media:** Find all my social media profiles and more on [Linktree](https://linktr.ee/noeltakacs)
+- 🔗 **Social Media:** Find all my social media profiles and more on [Linktree](https://linktr.ee/noeltakacs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:noeltakacs0@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="noeltakacs0@gmail.com" height="40" width="40" /></a>
-  <a href="https://twitter.com/noeltakacss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="noeltakacss" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/noeltakacs" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="noel-takács-78b42a285" height="40" width="40" /></a>
   <a href="https://instagram.com/noeltakacss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="noeltakacss" height="40" width="40" /></a>
+  <a href="https://twitter.com/noeltakacss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="noeltakacss" height="40" width="40" /></a>
+  <a href="mailto:noeltakacs0@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="noeltakacs0@gmail.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
