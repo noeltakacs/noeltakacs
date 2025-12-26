@@ -28,8 +28,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
@@ -42,5 +40,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
 </p>
