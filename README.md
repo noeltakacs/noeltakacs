@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Noel Takács</h1>
 <h3 align="center">Passionate and hardworking Software Engineer from Slovakia</h3>
 
-- 💼 **Position:** Junior Data Engineer at BuiltMind
+- 💼 **Position:** Full-Stack Software Engineer at BuiltMind
   
 - 🎓 **Education:** Computer Science at Technical University of Košice
 
