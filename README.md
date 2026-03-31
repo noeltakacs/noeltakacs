@@ -1,47 +1,30 @@
-<!--[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)-->
-<h1 align="center">Hi 👋, I'm Noel Takács</h1>
-<h3 align="center">Passionate and hardworking Software Engineer from Slovakia</h3>
+# Noel Takács — Full-Stack Software Engineer
 
-- 💼 **Position:** Full-Stack Software Engineer at BuiltMind
-  
-- 🎓 **Education:** Computer Science at Technical University of Košice
+I'm a software engineer based in Slovakia, currently working at [BuiltMind](https://www.builtmind.com/) — a PropTech startup building real-time market data and dynamic pricing tools for the real estate industry.
 
-- ⭐ **Highlighted Projects:**
-  - [CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8) - A comprehensive finance tracking mobile application
-  - [QuadCalc](https://github.com/noeltakacs/javafx-quadratic-equations) - A tool for solving and visualizing quadratic equations
+My day-to-day spans React on the frontend, Python and AWS Lambda on the backend, and PostgreSQL for data. Before moving into full-stack engineering, I worked as a data engineer at the same company — building scrapers, pipelines, and cloud workflows — which shaped how I think about reliability and clean systems.
 
-- 👨‍💻 **Explore My Work:** Check out all of my projects on [GitHub](https://github.com/noeltakacs?tab=repositories)
+---
 
-- 📬 **Contact Me:** Feel free to reach out via email at [noeltakacs0@gmail.com](mailto:noeltakacs0@gmail.com)
+## Stack
 
-- 🚀 **Visit My Website:** Discover more about me at [www.noeltakacs.com](https://www.noeltakacs.com)
+**Frontend** — JavaScript, TypeScript, React, Tailwind CSS  
+**Backend** — Python, Node.js, REST APIs  
+**Cloud & Infra** — AWS (Lambda, and more), PostgreSQL  
+**Tooling** — Git, Postman
 
-- 🔗 **Social Media:** Find all my social media profiles and more on [Linktree](https://linktr.ee/noeltakacs)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/noeltakacs" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="noel-takács-78b42a285" height="40" width="40" /></a>
-  <a href="https://instagram.com/noeltakacss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="noeltakacss" height="40" width="40" /></a>
-  <a href="https://twitter.com/noeltakacss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="noeltakacss" height="40" width="40" /></a>
-  <a href="mailto:noeltakacs0@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="noeltakacs0@gmail.com" height="40" width="40" /></a>
-</p>
+## Highlighted Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-</p>
+**[CheqTrack](https://www.youtube.com/watch?v=xdxxYQjnpK8)**  
+A mobile finance tracking app built with React Native. Covers expense logging, budget management, and financial overviews.
+
+**[QuadCalc](https://github.com/noeltakacs/javafx-quadratic-equations)**  
+A desktop tool for solving and visualizing quadratic equations, built with JavaFX.
+
+---
+
+## Get in Touch
+
+[Website](https://www.noeltakacs.com) · [LinkedIn](https://linkedin.com/in/noeltakacs) · [Email](mailto:noeltakacs0@gmail.com)
