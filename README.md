@@ -1,4 +1,4 @@
-# Noel Takács — Full-Stack Software Engineer
+# Noel Takács — Software Engineer
 
 I'm a software engineer based in Slovakia, currently working at [BuiltMind](https://www.builtmind.com/) — a PropTech startup building real-time market data and dynamic pricing tools for the real estate industry.
 
